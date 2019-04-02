@@ -1,4 +1,4 @@
-name: pug_env_py36
+name: quantum_production
 channels:
   - defaults
 dependencies:
